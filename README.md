@@ -5,7 +5,7 @@ Last checked version: 1.0.16-preview
 
 
 ## Sprite Skin Overwriter
-Simple Scriptable Object that allows overwritting bone, mesh, weights data across sprites.
+Simple Scriptable Object that allows overwriting bone, mesh, weights data across sprites.
 
 1. Create Scriptable Object:
 
